@@ -1,0 +1,7 @@
+http://kerrizor.com/blog/2014/04/02/quick-intro-to-mongodb-in-rails
+
+accessing mongo db from terminal:
+```bash
+mongo
+use mongoid_demo_development
+```
